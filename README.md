@@ -13,6 +13,7 @@ A curated list of free online file conversion and processing tools. All tools li
 - [SetDPI](https://setdpi.com) — Change image DPI without quality loss
 - [Squoosh](https://squoosh.app) — Image compression by Google
 - [TinyPNG](https://tinypng.com) — Smart PNG and JPEG compression
+- [FileOnTap](https://fileontap.com/pdf-to-png) — Free browser-based PDF-to-PNG converter; processing stays on the device and no account is required.
 
 ## Email Tools
 
