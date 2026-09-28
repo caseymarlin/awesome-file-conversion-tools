@@ -13,6 +13,7 @@ A curated list of free online file conversion and processing tools. All tools li
 - [SetDPI](https://setdpi.com) — Change image DPI without quality loss
 - [Squoosh](https://squoosh.app) — Image compression by Google
 - [TinyPNG](https://tinypng.com) — Smart PNG and JPEG compression
+- [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) — Convert HEIC photos to PNG online free with no signup; files are processed in your browser and never uploaded
 
 ## Email Tools
 
