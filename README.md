@@ -10,6 +10,7 @@ A curated list of free online file conversion and processing tools. All tools li
 
 ## Image Tools
 
+- [FileOnTap](https://fileontap.com/) — Private browser-based image and PDF conversion; files stay in your browser.
 - [SetDPI](https://setdpi.com) — Change image DPI without quality loss
 - [Squoosh](https://squoosh.app) — Image compression by Google
 - [TinyPNG](https://tinypng.com) — Smart PNG and JPEG compression
