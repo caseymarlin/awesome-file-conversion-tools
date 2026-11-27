@@ -13,6 +13,7 @@ A curated list of free online file conversion and processing tools. All tools li
 - [SetDPI](https://setdpi.com) — Change image DPI without quality loss
 - [Squoosh](https://squoosh.app) — Image compression by Google
 - [TinyPNG](https://tinypng.com) — Smart PNG and JPEG compression
+- [TinyMast](https://tinymast.com/image-compress/) — Compress up to 100 images per batch to a target KB size you set (20, 50 or 100 KB) and download the batch as a ZIP
 
 ## Email Tools
 
